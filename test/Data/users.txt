@@ -1,0 +1,1 @@
+{"$type":"System.Collections.Generic.List`1[[protect_inf_LR1.User, protect_inf_LR1]], mscorlib","$values":[{"$type":"protect_inf_LR1.User, protect_inf_LR1","login":"4321","password":"4321"},{"$type":"protect_inf_LR1.User, protect_inf_LR1","login":"4411","password":"4411"},{"$type":"protect_inf_LR1.User, protect_inf_LR1","login":"admin","password":"admin"}]}
